@@ -1,6 +1,9 @@
 #Docentes: Augusto César Oliveira e Domingos Savio de Oliveira Santos Junior.
+
 #Discente: Clarissa Rayane Aguiar Aurino Silva.
+
 #Disciplina: Paradigmas de Linguagens de Programação.
+
 #Curso: 5º S.I.
   
 
