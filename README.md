@@ -7,7 +7,7 @@
 #Curso: 5º S.I.
   
 
-#Resostas:
+#Respostas:
 
 #1.Isso acontece por causa da composição e do encapsulamento. O zoológico tem uma lista de animais dentro dele, mas o zoológico em si não é uma lista. Se a gente fizesse a classe Zoologico herdar direto de ArrayList, ela ia deixar expostos vários métodos de lista que não fazem sentido para o zoológico. Deixando a lista privada dentro da classe, a gente garante que só os métodos do zoológico mexem nos animais do jeito certo.
 
